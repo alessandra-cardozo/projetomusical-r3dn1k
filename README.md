@@ -8,7 +8,7 @@ R3DN1K é o projeto musical de Tevfikhan Akçay, produtor de música eletrônica
 
 Com atenção especial à construção de camadas e atmosferas, suas produções combinam ritmos marcantes e melodias emotivas para criar experiências imersivas. Cada faixa convida o ouvinte a percorrer uma paisagem sonora própria, onde energia e expressão artística se encontram.
 
-Neste projeto, a playlist aproxima o público do universo de R3DN1K e permite explorar faixas como **Motion**, **You**, **Poison**, **Same** e **Nadek** em um player visual e interativo.
+Neste projeto, a playlist aproxima o público do universo de R3DN1K e permite explorar faixas como **Motion**, **You**, **Poison**, **Same** e **Naked** em um player visual e interativo.
 
 ## ✨ Funcionalidades
 
